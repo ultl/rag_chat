@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["chatsession", "checkfirst", "chunker", "embedder", "Milvus", "ollama"],
+  "ruff.configuration": "ruff.toml"
+}

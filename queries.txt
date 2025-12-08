@@ -1,0 +1,13 @@
+How does the model law propose to handle jurisdictional challenges in cross-border electronic transactions?
+How is e-banking defined and what range of financial transactions does it enable customers to perform online?
+How to implement proper error handling & logging in a REST API application?
+List two advantages of e-banking highlighted in the features section (e.g., reduced paperwork, faster or more secure transactions).
+What are the key differences between agile and waterfall software development methodologies?
+What are the main steps of a typical electronic transaction from initiation through completion?
+What is the stated goal of the Electronic Transactions & Electronic Commerce Model Law for harmonizing ICT markets?
+What legal provisions are suggested to address issues like consumer protection, data privacy, and liability in e-commerce?
+What role do digital signatures and electronic contracts play in ensuring the validity of online agreements?
+Which initiative supported the model law and which organization financed it?
+Which security measures are recommended to protect payment data and authenticate users (e.g., SSL/TLS, tokenization, 2FA/biometrics/OTP)?
+売上と収益の請求書発行にはどのような方法が求められていますか?
+電子取引データを保存するにはどうすればいいですか?

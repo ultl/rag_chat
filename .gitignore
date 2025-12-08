@@ -1,0 +1,13 @@
+*.csv
+*.d.ts
+*.docx
+*.pdf
+*.xlsx
+*cache*
+.DS_Store
+.env
+.next
+bun.lock
+dist
+node_modules
+test

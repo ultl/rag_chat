@@ -71,11 +71,9 @@ default_model_settings: ModelSettings = {'temperature': 0.0, 'top_p': 0.0, 'para
 agent: Agent[AgentDeps, str] = Agent(
   model=model,
   system_prompt=system_prompt,
-  deps_type=AgentDeps,
-  result_type=str,
+  output_type=str,
   model_settings=default_model_settings,
   retries=2,
-  output_retries=2,
 )
 
 

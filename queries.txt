@@ -11,3 +11,4 @@ Which initiative supported the model law and which organization financed it?
 Which security measures are recommended to protect payment data and authenticate users (e.g., SSL/TLS, tokenization, 2FA/biometrics/OTP)?
 売上と収益の請求書発行にはどのような方法が求められていますか?
 電子取引データを保存するにはどうすればいいですか?
+Give a Japanese translation for "electronic commerce"
